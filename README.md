@@ -33,7 +33,6 @@ python -m pytest tests/test_book_details.py -v
 
 ## Project Structure
 ```text
-auto/
 ├── pages/
 │   ├── login_page.py
 │   ├── book_store_page.py
